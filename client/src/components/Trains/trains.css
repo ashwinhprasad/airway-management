@@ -1,0 +1,24 @@
+#train-search {
+  margin-bottom: 3em;
+  margin-top: 2em;
+  margin-left: auto;
+  width: 15em;
+  margin-right: auto;
+  padding: 0.5em 1em 0.5em 1em;
+}
+
+.search-div {
+  display: flex;
+}
+
+.trains-div > h1 {
+  text-align: center;
+  margin-top:2em;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(248, 80, 80);
+  text-shadow: 1.5px 2.5px rgb(101, 129, 223);
+}
+
+h1[id="tagline"] {
+  margin-bottom: 3em;
+}
